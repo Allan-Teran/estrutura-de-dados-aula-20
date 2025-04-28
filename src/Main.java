@@ -11,5 +11,6 @@ public class Main {
         System.out.println("topo: " + pilha.get());
         pilha.remover();
         System.out.println("topo: " + pilha.get());
+
     }
 }
